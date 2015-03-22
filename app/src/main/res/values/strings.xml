@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NavigationBar</string>
+
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Occt Schedule</string>
+    <string name="title_section3">Preferences</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="next_bus_time_1">9:45 PM</string>
+    <string name="time_remaining_1">15 minutes</string>
+    <string name="next_bus_time_2">10:15 PM</string>
+    <string name="time_remaining_2">45 minutes</string>
+    <string name="next_bus_time_3">10:45 PM</string>
+    <string name="time_remaining_3">1 hour 15 minutes</string>
+</resources>
